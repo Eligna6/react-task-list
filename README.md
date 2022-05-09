@@ -1,3 +1,6 @@
+# react-task-list 
+Lista de tareas hecha con React, utilizando useState, useEffect y localStorage, y estilada con Bootstrap.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
