@@ -1,5 +1,5 @@
 # react-task-list 
-Lista de tareas hecha con React, utilizando useState, useEffect y localStorage, y estilada con Bootstrap.
+Lista de tareas hecha con React, utilizando useState, useEffect y localStorage, estilada con Bootstrap.
 
 ## Getting Started with Create React App
 
